@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="x64" />
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Eplan.InterruptionManager/Eplan.InterruptionManager.csproj" Id="3ce4d686-c55f-4d70-a9f9-35944b126bd1">
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="x64|Any CPU" Project="x64" />
+  </Project>
+</Solution>
